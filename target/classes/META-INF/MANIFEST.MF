@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ADMIN
+Build-Jdk: 15.0.1
+Implementation-Title: spring-boot-helloworld
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: me.loda.spring
+Implementation-Vendor: loda.me
+Implementation-URL: https://loda.me/spring-boot-helloworld/
+Created-By: Maven Integration for Eclipse
+
